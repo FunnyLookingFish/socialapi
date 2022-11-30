@@ -1,0 +1,19 @@
+
+{
+    "name": "socialapi",
+    "version": "1.0.0",
+    "private": "true",
+    "description": "nosql social network apit",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "moment": "^2.29.4",
+        "mongoose": "^6.7.2"
+    }
+}
